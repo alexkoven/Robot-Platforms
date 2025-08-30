@@ -1,10 +1,8 @@
 # Robotics-Platforms-Papers
 
-A collection of robotics platforms
+A collection of robotics platforms across industry and academia.
 
 ## Industry Platforms
-
-A comprehensive list of commercial robotics platforms and hardware solutions.
 
 | Company | Comments |
 |-------|-------|
@@ -25,9 +23,7 @@ A comprehensive list of commercial robotics platforms and hardware solutions.
 | [WidowX](https://www.trossenrobotics.com/widowx-250): Trossen arms  ca. $4-5k depending on version | ![platform_image_15.png](images/platform_image_15.png) |
 | [Willow Garage PR2](https://www.youtube.com/watch?v=J4m_tEEStiw&ab_channel=SquigglemomandFriends) | ![platform_image_16.png](images/platform_image_16.png) |
 
-## Research Papers
-
-Latest research papers related to robotics platforms and hardware.
+## Academia
 
 | Paper | Comments |
 |-------|-------|
@@ -46,5 +42,5 @@ Latest research papers related to robotics platforms and hardware.
 | [Mobile ALOHA - Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation](https://arxiv.org/html/2401.02117v1) | ![platform_image_29.png](images/platform_image_29.png) |
 | [LEAP Hand Dexterous, Low-cost Hybrid Rigid-Soft Hand for Robot Learning](https://v2-adv.leaphand.com/#) | Leap hand 2.0 was introduced at RSS. Links for hand not working well though. Supposedly there is a cheap hand version for $200-$300. V2 looks like ![platform_image_30.png](images/platform_image_30.png) |
 
-Any pull requests with missing platforms or papers are welcome! Connect with me on X (@alexkoven) or LinkedIn (@Alexander Nettekoven).
+Any pull requests with missing platforms or papers are welcome! Connect with me on [X](@alexkoven) or [LinkedIn](@Alexander Nettekoven).
 

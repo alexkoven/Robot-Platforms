@@ -7,7 +7,7 @@ A collection of robotics platforms across industry and academia.
 | Company | Comments |
 |-------|-------|
 | [Dyna Robotics](https://www.dyna.co/) | ![platform_image_01.png](images/platform_image_01.png) Mobile Base with two standard arms (at least $20k imo). Link to above [here](https://www.linkedin.com/posts/dyna-robotics_cleanshow2025-robotics-automation-activity-7366903965462003713-40xB?utm_source=share&utm_medium=member_desktop&rcm=ACoAABSV-R4BLe26RUcv3ZDc9EKe58cRlXKz8O8) |
-| [Piper](https://global.agilex.ai/products/piper) arm for $2.5k by [AgileX Robotics](https://global.agilex.ai/pages/about-us) | ![[Pasted image 20250826123058.png |
+| [Piper](https://global.agilex.ai/products/piper) arm for $2.5k by [AgileX Robotics](https://global.agilex.ai/pages/about-us) | ![platform_image_02.png](images/platform_image_02.png) |
 | [OpenArm](https://github.com/enactic/openarm). $6.5k cost | ![platform_image_03.png](images/platform_image_03.png) |
 | [Allegro Hand](https://www.allegrohand.com/?gad_source=1&gad_campaignid=21343116219&gbraid=0AAAAA9UNdCx_a9ovFh8C1jpO0fg2CgIxe&gclid=CjwKCAjwtrXFBhBiEiwAEKen1yZzFNLVnxucm3Pu7FraqHEa33LmQwF7H-VHnctP5Q5-Asm_xQv0IBoChKgQAvD_BwE). Cost supposedly over $16k according to LEAP Hand paper | ![platform_image_04.png](images/platform_image_04.png) |
 | [Ufactory Arm](https://www.ufactory.us/?utm_source=google&utm_medium=cpc&utm_campaign=competitorsaisa&utm_term=ur&gad_source=1&gad_campaignid=22247466162&gbraid=0AAAAApkOHBCXVyg-3N4z2NMVbNN4x8Hpy&gclid=CjwKCAjwk7DFBhBAEiwAeYbJsX-UCjeetiMaLv2gJDxo9XbBT2ssLuWmWGtq4MRxVJvQ-wp1wRRgyxoCbOsQAvD_BwE) | ![platform_image_05.png](images/platform_image_05.png) |
@@ -42,5 +42,5 @@ A collection of robotics platforms across industry and academia.
 | [Mobile ALOHA - Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation](https://arxiv.org/html/2401.02117v1) | ![platform_image_29.png](images/platform_image_29.png) |
 | [LEAP Hand Dexterous, Low-cost Hybrid Rigid-Soft Hand for Robot Learning](https://v2-adv.leaphand.com/#) | Leap hand 2.0 was introduced at RSS. Links for hand not working well though. Supposedly there is a cheap hand version for $200-$300. V2 looks like ![platform_image_30.png](images/platform_image_30.png) |
 
-Any pull requests with missing platforms or papers are welcome! Connect with me on [X](@alexkoven) or [LinkedIn](@Alexander Nettekoven).
+Any pull requests with missing platforms or papers are welcome! Connect with me on [X](@alexkoven) or [LinkedIn](https://www.linkedin.com/in/alexander-nettekoven/).
 

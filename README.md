@@ -1,4 +1,4 @@
-# Robotics-Platforms-Papers
+# Robotics-Platforms
 
 A collection of robotics platforms across industry and academia for educational purposes. Image credit lays with the respective companies and authors.
 
